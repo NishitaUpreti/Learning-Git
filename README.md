@@ -1,2 +1,7 @@
 # Learning-Git
-This is a test repository.
+<h1>This is a test repository.</h1>
+<h3>Author - Nishita Upreti</h3>
+<br>
+<u>I am leaning git.<u>
+<br>
+You can use basic html on this readme file.
